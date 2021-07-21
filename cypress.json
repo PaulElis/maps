@@ -1,0 +1,8 @@
+{
+  "experimentalNetworkStubbing": true,
+  "baseUrl": "http://localhost:3000",
+  "reporter": "junit",
+  "reporterOptions": {
+    "mochaFile": "results/cypress.xml"
+  }
+}

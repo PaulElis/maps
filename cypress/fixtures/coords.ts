@@ -1,0 +1,1 @@
+export default { "latitude": 32.22, "longitude": -110.92 }

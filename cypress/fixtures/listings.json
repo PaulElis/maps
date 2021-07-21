@@ -1,0 +1,1027 @@
+{
+  "data": {
+    "location": {
+      "name": "Tucson, AZ",
+      "city": "Tucson",
+      "state": "Arizona",
+      "state_abv": "AZ",
+      "zipcode": "85704",
+      "country": "United States",
+      "country_code": "US",
+      "latitude": 32.37151,
+      "longitude": -110.99832,
+      "place_path": "/earth/us/az/tucson/85704",
+      "is_medical": true,
+      "is_recreational": false,
+      "quote": "Medically Legal Since 2010",
+      "cta_message": null,
+      "min_age": 18
+    },
+    "regions": {
+      "deal": {
+        "id": 269,
+        "name": "Tucson",
+        "slug": "tucson",
+        "region_path": "united-states/arizona/tucson",
+        "latitude": 32.21240234375,
+        "longitude": -110.9342041015625,
+        "top_left": {
+          "latitude": 32.920927,
+          "longitude": -111.795081
+        },
+        "bottom_right": {
+          "latitude": 31.625505,
+          "longitude": -110.447322
+        },
+        "online_ordering": {
+          "is_enabled": true
+        }
+      },
+      "deliverable": {
+        "id": 269,
+        "name": "Tucson",
+        "slug": "tucson",
+        "region_path": "united-states/arizona/tucson",
+        "latitude": 32.21240234375,
+        "longitude": -110.9342041015625,
+        "top_left": {
+          "latitude": 32.920927,
+          "longitude": -111.795081
+        },
+        "bottom_right": {
+          "latitude": 31.625505,
+          "longitude": -110.447322
+        },
+        "online_ordering": {
+          "is_enabled": true
+        }
+      },
+      "dispensary": {
+        "id": 269,
+        "name": "Tucson",
+        "slug": "tucson",
+        "region_path": "united-states/arizona/tucson",
+        "latitude": 32.21240234375,
+        "longitude": -110.9342041015625,
+        "top_left": {
+          "latitude": 32.920927,
+          "longitude": -111.795081
+        },
+        "bottom_right": {
+          "latitude": 31.625505,
+          "longitude": -110.447322
+        },
+        "online_ordering": {
+          "is_enabled": true
+        },
+        "listings": [
+          {
+            "id": 56878,
+            "wmid": 170903161,
+            "name": "Earth's Healing North",
+            "slug": "earth-s-healing",
+            "type": "dispensary",
+            "best_of_weedmaps": true,
+            "social_equity": false,
+            "city": "Tucson",
+            "state": "Arizona",
+            "latitude": 32.297284,
+            "longitude": -110.972795,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/056/878/avatar/square_fill/1533671198-biglogoblack.jpg",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/056/878/avatar/original/1533671198-biglogoblack.jpg"
+            },
+            "rating": 4.87468139337298,
+            "reviews_count": 2354,
+            "distance": 5.340630208706265,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.297284/-110.972795/402/147/map.png",
+            "feature_order": 1,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": false,
+              "is_logistics_enabled": false,
+              "after_hours_enabled": true,
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false,
+              "identification_required": true,
+              "purchase_min": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "eta_min": 0,
+              "eta_max": 0,
+              "display_eta": false,
+              "wm_service_fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              }
+            },
+            "retailer_services": ["storefront", "pickup"]
+          },
+          {
+            "id": 26298,
+            "wmid": 204153731,
+            "name": "The Downtown Dispensary",
+            "slug": "the-downtown-dispensary",
+            "type": "dispensary",
+            "best_of_weedmaps": true,
+            "social_equity": false,
+            "city": "Tucson",
+            "state": "Arizona",
+            "latitude": 32.228086,
+            "longitude": -110.96811,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/026/298/avatar/square_fill/1529732914-D1-2018.jpg",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/026/298/avatar/original/1529732914-D1-2018.jpg"
+            },
+            "rating": 4.60335289186924,
+            "reviews_count": 1193,
+            "distance": 10.06549174090796,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.228086/-110.96811/402/147/map.png",
+            "feature_order": 2,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": false,
+              "is_logistics_enabled": false,
+              "after_hours_enabled": true,
+              "enabled_for_pickup": true,
+              "enabled_for_delivery": false,
+              "identification_required": true,
+              "purchase_min": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "eta_min": 30,
+              "eta_max": 60,
+              "display_eta": false,
+              "wm_service_fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              }
+            },
+            "retailer_services": ["storefront", "pickup"]
+          },
+          {
+            "id": 24408,
+            "wmid": 300306018,
+            "name": "Earth's Healing",
+            "slug": "earth-s-healing-tucson",
+            "type": "dispensary",
+            "best_of_weedmaps": true,
+            "social_equity": false,
+            "city": "Tucson",
+            "state": "Arizona",
+            "latitude": 32.167339,
+            "longitude": -110.94078,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/024/408/avatar/square_fill/1533669781-biglogoblack.jpg",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/024/408/avatar/original/1533669781-biglogoblack.jpg"
+            },
+            "rating": 4.86274509803921,
+            "reviews_count": 3774,
+            "distance": 14.50186632925777,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.167339/-110.94078/402/147/map.png",
+            "feature_order": 3,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": false,
+              "is_logistics_enabled": false,
+              "after_hours_enabled": true,
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false,
+              "identification_required": true,
+              "purchase_min": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "eta_min": 0,
+              "eta_max": 0,
+              "display_eta": false,
+              "wm_service_fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              }
+            },
+            "retailer_services": ["storefront", "pickup"]
+          },
+          {
+            "id": 303745,
+            "wmid": 389614869,
+            "name": "The Prime Leaf - University",
+            "slug": "the-prime-leaf-3",
+            "type": "dispensary",
+            "best_of_weedmaps": false,
+            "social_equity": false,
+            "city": "Tucson",
+            "state": "Arizona",
+            "latitude": 32.241341,
+            "longitude": -110.957154,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/303/745/avatar/square_fill/1596843011-PrimeLeaf-logo-black_1_.jpg",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/303/745/avatar/original/1596843011-PrimeLeaf-logo-black_1_.jpg"
+            },
+            "rating": 4.5,
+            "reviews_count": 8,
+            "distance": 9.309567890435796,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.241341/-110.957154/402/147/map.png",
+            "feature_order": 4,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": false,
+              "is_logistics_enabled": false,
+              "after_hours_enabled": false,
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false,
+              "identification_required": true,
+              "purchase_min": null,
+              "fee": null,
+              "eta_min": null,
+              "eta_max": null,
+              "display_eta": null,
+              "wm_service_fee": null
+            },
+            "retailer_services": ["storefront", "pickup"]
+          },
+          {
+            "id": 52745,
+            "wmid": 208556771,
+            "name": "D2 Dispensary",
+            "slug": "d2-dispensary",
+            "type": "dispensary",
+            "best_of_weedmaps": true,
+            "social_equity": false,
+            "city": "Tucson",
+            "state": "Arizona",
+            "latitude": 32.20687,
+            "longitude": -110.84014,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/052/745/avatar/square_fill/1529729251-D2-2018.jpg",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/052/745/avatar/original/1529729251-D2-2018.jpg"
+            },
+            "rating": 4.58345153664302,
+            "reviews_count": 423,
+            "distance": 14.6548436012187,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.20687/-110.84014/402/147/map.png",
+            "feature_order": 5,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": false,
+              "is_logistics_enabled": false,
+              "after_hours_enabled": true,
+              "enabled_for_pickup": true,
+              "enabled_for_delivery": false,
+              "identification_required": true,
+              "purchase_min": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "eta_min": 30,
+              "eta_max": 60,
+              "display_eta": false,
+              "wm_service_fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              }
+            },
+            "retailer_services": ["storefront", "pickup"]
+          },
+          {
+            "id": 27925,
+            "wmid": 493762919,
+            "name": "The Prime Leaf - Midtown",
+            "slug": "the-prime-leaf",
+            "type": "dispensary",
+            "best_of_weedmaps": true,
+            "social_equity": false,
+            "city": "Tucson",
+            "state": "Arizona",
+            "latitude": 32.235915,
+            "longitude": -110.902564,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/027/925/avatar/square_fill/1558733602-PrimeLeaf-logoPNG.png",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/027/925/avatar/original/1558733602-PrimeLeaf-logoPNG.png"
+            },
+            "rating": 4.38787878787879,
+            "reviews_count": 297,
+            "distance": 10.91075940961882,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.235915/-110.902564/402/147/map.png",
+            "feature_order": 6,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": false,
+              "is_logistics_enabled": false,
+              "after_hours_enabled": true,
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false,
+              "identification_required": true,
+              "purchase_min": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "eta_min": 30,
+              "eta_max": 60,
+              "display_eta": false,
+              "wm_service_fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              }
+            },
+            "retailer_services": ["storefront", "pickup"]
+          },
+          {
+            "id": 25109,
+            "wmid": 538970633,
+            "name": "Desert Bloom Re-Leaf Center",
+            "slug": "desert-bloom-re-leaf-center",
+            "type": "dispensary",
+            "best_of_weedmaps": true,
+            "social_equity": false,
+            "city": "Tucson",
+            "state": "Arizona",
+            "latitude": 32.205911,
+            "longitude": -110.820542,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/025/109/avatar/square_fill/1561131535-logo_for_weedmaps.jpg",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/025/109/avatar/original/1561131535-logo_for_weedmaps.jpg"
+            },
+            "rating": 4.1799591002045,
+            "reviews_count": 489,
+            "distance": 15.45120581164955,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.205911/-110.820542/402/147/map.png",
+            "feature_order": 7,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": false,
+              "is_logistics_enabled": false,
+              "after_hours_enabled": true,
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false,
+              "identification_required": true,
+              "purchase_min": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "eta_min": 30,
+              "eta_max": 60,
+              "display_eta": false,
+              "wm_service_fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              }
+            },
+            "retailer_services": ["storefront", "pickup"]
+          },
+          {
+            "id": 26132,
+            "wmid": 285366479,
+            "name": "Botanica - Tucson",
+            "slug": "botanica-tucson",
+            "type": "dispensary",
+            "best_of_weedmaps": true,
+            "social_equity": false,
+            "city": "Tucson",
+            "state": "Arizona",
+            "latitude": 32.31976,
+            "longitude": -111.04795,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/026/132/avatar/square_fill/1510582284-bee-original---white-_with-black_.jpg",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/026/132/avatar/original/1510582284-bee-original---white-_with-black_.jpg"
+            },
+            "rating": 4.6141975308642,
+            "reviews_count": 648,
+            "distance": 4.601914148478707,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.31976/-111.04795/402/147/map.png",
+            "feature_order": 8,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": false,
+              "is_logistics_enabled": false,
+              "after_hours_enabled": true,
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false,
+              "identification_required": true,
+              "purchase_min": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "eta_min": 0,
+              "eta_max": 0,
+              "display_eta": false,
+              "wm_service_fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              }
+            },
+            "retailer_services": ["storefront", "pickup"]
+          },
+          {
+            "id": 25374,
+            "wmid": 918138371,
+            "name": "Nature Med",
+            "slug": "nature-med-inc-tucson",
+            "type": "dispensary",
+            "best_of_weedmaps": false,
+            "social_equity": false,
+            "city": "Tucson",
+            "state": "Arizona",
+            "latitude": 32.33772,
+            "longitude": -111.079793,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/025/374/avatar/square_fill/1587159044-nm_small.JPG",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/025/374/avatar/original/1587159044-nm_small.JPG"
+            },
+            "rating": 4.54230235783634,
+            "reviews_count": 721,
+            "distance": 5.297523710304798,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.33772/-111.079793/402/147/map.png",
+            "feature_order": 10,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": false,
+              "is_logistics_enabled": false,
+              "after_hours_enabled": true,
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false,
+              "identification_required": true,
+              "purchase_min": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "eta_min": 0,
+              "eta_max": 0,
+              "display_eta": false,
+              "wm_service_fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              }
+            },
+            "retailer_services": ["storefront", "pickup"]
+          },
+          {
+            "id": 21649,
+            "wmid": 590953731,
+            "name": "The Green Halo - Tucson Dispensary",
+            "slug": "the-green-halo",
+            "type": "dispensary",
+            "best_of_weedmaps": false,
+            "social_equity": false,
+            "city": "Tucson",
+            "state": "Arizona",
+            "latitude": 32.112559,
+            "longitude": -110.858661,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/021/649/avatar/square_fill/1539105156-thegreenhalologo_copy.png",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/021/649/avatar/original/1539105156-thegreenhalologo_copy.png"
+            },
+            "rating": 4.87191780821917,
+            "reviews_count": 2920,
+            "distance": 19.66540383278375,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.112559/-110.858661/402/147/map.png",
+            "feature_order": 13,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": false,
+              "is_logistics_enabled": false,
+              "after_hours_enabled": true,
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false,
+              "identification_required": true,
+              "purchase_min": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "eta_min": 30,
+              "eta_max": 60,
+              "display_eta": false,
+              "wm_service_fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              }
+            },
+            "retailer_services": ["storefront", "pickup"]
+          }
+        ]
+      },
+      "delivery": {
+        "id": 269,
+        "name": "Tucson",
+        "slug": "tucson",
+        "region_path": "united-states/arizona/tucson",
+        "latitude": 32.21240234375,
+        "longitude": -110.9342041015625,
+        "top_left": {
+          "latitude": 32.920927,
+          "longitude": -111.795081
+        },
+        "bottom_right": {
+          "latitude": 31.625505,
+          "longitude": -110.447322
+        },
+        "online_ordering": {
+          "is_enabled": true
+        },
+        "listings": [
+          {
+            "id": 13694,
+            "wmid": 573353402,
+            "name": "Earth's Healing Delivery",
+            "slug": "earth-s-healing-dispensary",
+            "type": "delivery",
+            "best_of_weedmaps": false,
+            "social_equity": false,
+            "city": "Tucson",
+            "state": "Arizona",
+            "latitude": 32.167041,
+            "longitude": -110.940924,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/013/694/avatar/square_fill/1543705613-biglogoblack.jpg",
+              "original_url": "https://images.weedmaps.com/deliveries/000/013/694/avatar/original/1543705613-biglogoblack.jpg"
+            },
+            "rating": 4.76724738675958,
+            "reviews_count": 287,
+            "distance": 14.51995072515448,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.167041/-110.940924/402/147/map.png",
+            "feature_order": 1,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": false,
+              "is_logistics_enabled": false,
+              "after_hours_enabled": false,
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false,
+              "identification_required": true,
+              "purchase_min": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "eta_min": 30,
+              "eta_max": 60,
+              "display_eta": false,
+              "wm_service_fee": {
+                "cents": 399,
+                "currency": "USD",
+                "amount": 3
+              }
+            },
+            "retailer_services": ["delivery"]
+          },
+          {
+            "id": 26766,
+            "wmid": 211990502,
+            "name": "iLava Now",
+            "slug": "ilava",
+            "type": "delivery",
+            "best_of_weedmaps": false,
+            "social_equity": false,
+            "city": "Tucson",
+            "state": "Arizona",
+            "latitude": 32.228408,
+            "longitude": -110.965213,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/026/766/avatar/square_fill/1529730184-ILNOW-2018.jpg",
+              "original_url": "https://images.weedmaps.com/deliveries/000/026/766/avatar/original/1529730184-ILNOW-2018.jpg"
+            },
+            "rating": 4.61038961038961,
+            "reviews_count": 77,
+            "distance": 10.0746874091921,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.228408/-110.965213/402/147/map.png",
+            "feature_order": 2,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": true,
+              "is_logistics_enabled": true,
+              "after_hours_enabled": false,
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true,
+              "identification_required": true,
+              "purchase_min": {
+                "cents": 5000,
+                "currency": "USD",
+                "amount": 50
+              },
+              "fee": {
+                "cents": 1200,
+                "currency": "USD",
+                "amount": 12
+              },
+              "eta_min": 30,
+              "eta_max": 60,
+              "display_eta": false,
+              "wm_service_fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              }
+            },
+            "retailer_services": ["delivery"]
+          },
+          {
+            "id": 31180,
+            "wmid": 179835859,
+            "name": "Nature Med Delivery",
+            "slug": "golden-leaf-delivery",
+            "type": "delivery",
+            "best_of_weedmaps": false,
+            "social_equity": false,
+            "city": "Oro Valley",
+            "state": "Arizona",
+            "latitude": 32.424416,
+            "longitude": -110.961102,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/deliveries/000/031/180/avatar/square_fill/1534893012-NM_Delivery.jpg",
+              "original_url": "https://images.weedmaps.com/deliveries/000/031/180/avatar/original/1534893012-NM_Delivery.jpg"
+            },
+            "rating": 4.155,
+            "reviews_count": 40,
+            "distance": 4.251668403442252,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.424416/-110.961102/402/147/map.png",
+            "feature_order": 20,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": false,
+              "is_logistics_enabled": false,
+              "after_hours_enabled": false,
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false,
+              "identification_required": true,
+              "purchase_min": {
+                "cents": 6000,
+                "currency": "USD",
+                "amount": 60
+              },
+              "fee": {
+                "cents": 500,
+                "currency": "USD",
+                "amount": 5
+              },
+              "eta_min": 0,
+              "eta_max": 0,
+              "display_eta": false,
+              "wm_service_fee": {
+                "cents": 399,
+                "currency": "USD",
+                "amount": 3
+              }
+            },
+            "retailer_services": ["delivery"]
+          }
+        ]
+      },
+      "doctor": {
+        "id": 269,
+        "name": "Tucson",
+        "slug": "tucson",
+        "region_path": "united-states/arizona/tucson",
+        "latitude": 32.21240234375,
+        "longitude": -110.9342041015625,
+        "top_left": {
+          "latitude": 32.920927,
+          "longitude": -111.795081
+        },
+        "bottom_right": {
+          "latitude": 31.625505,
+          "longitude": -110.447322
+        },
+        "online_ordering": {
+          "is_enabled": true
+        },
+        "listings": [
+          {
+            "id": 14850,
+            "wmid": 915998837,
+            "name": "Sun Valley Certification Centers",
+            "slug": "sun-valley-certification-centers-2",
+            "type": "doctor",
+            "best_of_weedmaps": false,
+            "social_equity": false,
+            "city": "Tucson",
+            "state": "Arizona",
+            "latitude": 32.235114,
+            "longitude": -110.841806,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/doctors/000/014/850/avatar/square_fill/1510583557-LOGO.jpg",
+              "original_url": "https://images.weedmaps.com/doctors/000/014/850/avatar/original/1510583557-LOGO.jpg"
+            },
+            "rating": 3.64,
+            "reviews_count": 20,
+            "distance": 13.12858936099708,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.235114/-110.841806/402/147/map.png",
+            "feature_order": 1,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": false,
+              "is_logistics_enabled": false,
+              "after_hours_enabled": false,
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false,
+              "identification_required": true,
+              "purchase_min": null,
+              "fee": null,
+              "eta_min": null,
+              "eta_max": null,
+              "display_eta": null,
+              "wm_service_fee": null
+            },
+            "retailer_services": ["doctor"]
+          },
+          {
+            "id": 11713,
+            "wmid": 373837171,
+            "name": "Dr. Heather Moroso",
+            "slug": "moroso-medical-center",
+            "type": "doctor",
+            "best_of_weedmaps": false,
+            "social_equity": false,
+            "city": "Tucson",
+            "state": "AZ",
+            "latitude": 32.2264064,
+            "longitude": -110.9654071,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/square_fill/image_missing.jpg",
+              "original_url": "https://images.weedmaps.com/original/image_missing.jpg"
+            },
+            "rating": 5,
+            "reviews_count": 15,
+            "distance": 10.20831153336076,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.2264064/-110.9654071/402/147/map.png",
+            "feature_order": 9999,
+            "license_type": "medical",
+            "package_level": "free",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": false,
+              "is_logistics_enabled": false,
+              "after_hours_enabled": false,
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false,
+              "identification_required": true,
+              "purchase_min": null,
+              "fee": null,
+              "eta_min": null,
+              "eta_max": null,
+              "display_eta": null,
+              "wm_service_fee": null
+            },
+            "retailer_services": ["doctor"]
+          },
+          {
+            "id": 11869,
+            "wmid": 682087589,
+            "name": "Natural Healing Care Center",
+            "slug": "natural-healing-care-center",
+            "type": "doctor",
+            "best_of_weedmaps": false,
+            "social_equity": false,
+            "city": "Tucson",
+            "state": "AZ",
+            "latitude": 32.235642,
+            "longitude": -110.939024,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/square_fill/image_missing.jpg",
+              "original_url": "https://images.weedmaps.com/original/image_missing.jpg"
+            },
+            "rating": 5,
+            "reviews_count": 10,
+            "distance": 10.00591002077615,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.235642/-110.939024/402/147/map.png",
+            "feature_order": 9999,
+            "license_type": "medical",
+            "package_level": "free",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": false,
+              "is_logistics_enabled": false,
+              "after_hours_enabled": false,
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false,
+              "identification_required": true,
+              "purchase_min": null,
+              "fee": null,
+              "eta_min": null,
+              "eta_max": null,
+              "display_eta": null,
+              "wm_service_fee": null
+            },
+            "retailer_services": ["doctor"]
+          },
+          {
+            "id": 16176,
+            "wmid": 468612896,
+            "name": "Chelson Naturopathic Physician",
+            "slug": "dr-debora-chelson",
+            "type": "doctor",
+            "best_of_weedmaps": false,
+            "social_equity": false,
+            "city": "Tucson",
+            "state": "AZ",
+            "latitude": 32.157266,
+            "longitude": -110.771436,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/square_fill/image_missing.jpg",
+              "original_url": "https://images.weedmaps.com/original/image_missing.jpg"
+            },
+            "rating": 5,
+            "reviews_count": 5,
+            "distance": 19.8705088604227,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.157266/-110.771436/402/147/map.png",
+            "feature_order": 9999,
+            "license_type": "medical",
+            "package_level": "free",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": false,
+              "is_logistics_enabled": false,
+              "after_hours_enabled": false,
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false,
+              "identification_required": true,
+              "purchase_min": null,
+              "fee": null,
+              "eta_min": null,
+              "eta_max": null,
+              "display_eta": null,
+              "wm_service_fee": null
+            },
+            "retailer_services": ["doctor"]
+          },
+          {
+            "id": 11173,
+            "wmid": 385959076,
+            "name": "Arizona Medical Marijuana Certification Clinic",
+            "slug": "azmmcc-tucson",
+            "type": "doctor",
+            "best_of_weedmaps": false,
+            "social_equity": false,
+            "city": "Tucson",
+            "state": "AZ",
+            "latitude": 32.29317,
+            "longitude": -110.961669,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/doctors/000/011/173/avatar/square_fill/1510583341-Weedmaps---AZMMCC-AVATAR--BLUE.png",
+              "original_url": "https://images.weedmaps.com/doctors/000/011/173/avatar/original/1510583341-Weedmaps---AZMMCC-AVATAR--BLUE.png"
+            },
+            "rating": 4.08,
+            "reviews_count": 5,
+            "distance": 5.820360732876688,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.29317/-110.961669/402/147/map.png",
+            "feature_order": 9999,
+            "license_type": "medical",
+            "package_level": "free",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": false,
+              "is_logistics_enabled": false,
+              "after_hours_enabled": false,
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false,
+              "identification_required": true,
+              "purchase_min": null,
+              "fee": null,
+              "eta_min": null,
+              "eta_max": null,
+              "display_eta": null,
+              "wm_service_fee": null
+            },
+            "retailer_services": ["doctor"]
+          }
+        ]
+      },
+      "store": {
+        "id": 269,
+        "name": "Tucson",
+        "slug": "tucson",
+        "region_path": "united-states/arizona/tucson",
+        "latitude": 32.21240234375,
+        "longitude": -110.9342041015625,
+        "top_left": {
+          "latitude": 32.920927,
+          "longitude": -111.795081
+        },
+        "bottom_right": {
+          "latitude": 31.625505,
+          "longitude": -110.447322
+        },
+        "online_ordering": {
+          "is_enabled": true
+        },
+        "listings": []
+      },
+      "brand": {
+        "id": 3,
+        "name": "Arizona",
+        "slug": "arizona",
+        "region_path": "united-states/arizona",
+        "latitude": 34.29308319091797,
+        "longitude": -111.6643905639648,
+        "top_left": {
+          "latitude": 37.00426,
+          "longitude": -114.816591
+        },
+        "bottom_right": {
+          "latitude": 31.332239,
+          "longitude": -109.045223
+        },
+        "online_ordering": {
+          "is_enabled": false
+        }
+      }
+    }
+  }
+}

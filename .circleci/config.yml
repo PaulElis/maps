@@ -1,0 +1,64 @@
+version: 2
+
+docker_defaults: &docker_defaults
+  docker:
+    - image: cypress/base:12.18.3
+
+aliases:
+  - &restore-cache
+    keys:
+      - v2-cache-{{ .Branch }}-{{ checksum "yarn.lock" }}
+      - v2-cache-{{ checksum "yarn.lock" }}-
+      - v2-cache-
+  - &save-cache
+    paths:
+      - node_modules
+      - ~/.cache
+    key: v2-cache-{{ .Branch }}-{{ checksum "yarn.lock" }}
+  - &yarn |
+    yarn install --non-interactive --cache-folder ~/.cache/yarn
+
+jobs:
+  cypress:
+    <<: *docker_defaults
+    resource_class: large
+    working_directory: ~/kali-mist
+    steps:
+      - setup_remote_docker
+      - checkout
+      - restore-cache: *restore-cache
+      - run: *yarn
+      - save-cache: *save-cache
+      - run: yarn cypress:ci
+      - store_test_results:
+          path: reports
+  candidate-tests:
+    <<: *docker_defaults
+    resource_class: large
+    working_directory: ~/kali-mist
+    steps:
+      - setup_remote_docker
+      - checkout
+      - restore-cache: *restore-cache
+      - run: *yarn
+      - save-cache: *save-cache
+      - run: yarn candidate:tests
+      - store_test_results:
+          path: reports
+  lint:
+    <<: *docker_defaults
+    working_directory: ~/kali-mist
+    steps:
+      - setup_remote_docker
+      - checkout
+      - restore-cache: *restore-cache
+      - run: *yarn
+      - run: yarn lint
+
+workflows:
+  version: 2
+  test:
+    jobs:
+      - cypress
+      - candidate-tests
+      - lint

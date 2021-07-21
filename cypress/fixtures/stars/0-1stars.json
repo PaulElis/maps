@@ -1,0 +1,98 @@
+{
+  "data": {
+    "location": {
+      "name": "Tucson, AZ",
+      "city": "Tucson",
+      "state": "Arizona",
+      "state_abv": "AZ",
+      "zipcode": "85704",
+      "country": "United States",
+      "country_code": "US",
+      "latitude": 32.37151,
+      "longitude": -110.99832,
+      "place_path": "/earth/us/az/tucson/85704",
+      "is_medical": true,
+      "is_recreational": false,
+      "quote": "Medically Legal Since 2010",
+      "cta_message": null,
+      "min_age": 18
+    },
+    "regions": {
+      "dispensary": {
+        "id": 269,
+        "name": "Tucson",
+        "slug": "tucson",
+        "region_path": "united-states/arizona/tucson",
+        "latitude": 32.21240234375,
+        "longitude": -110.9342041015625,
+        "top_left": {
+          "latitude": 32.920927,
+          "longitude": -111.795081
+        },
+        "bottom_right": {
+          "latitude": 31.625505,
+          "longitude": -110.447322
+        },
+        "online_ordering": {
+          "is_enabled": true
+        },
+        "listings": [
+          {
+            "id": 56878,
+            "wmid": 170903161,
+            "name": "Earth's Healing North",
+            "slug": "earth-s-healing",
+            "type": "dispensary",
+            "best_of_weedmaps": true,
+            "social_equity": false,
+            "city": "Tucson",
+            "state": "Arizona",
+            "latitude": 32.297284,
+            "longitude": -110.972795,
+            "avatar_image": {
+              "small_url": "https://images.weedmaps.com/dispensaries/000/056/878/avatar/square_fill/1533671198-biglogoblack.jpg",
+              "original_url": "https://images.weedmaps.com/dispensaries/000/056/878/avatar/original/1533671198-biglogoblack.jpg"
+            },
+            "rating": 0.1,
+            "reviews_count": 2354,
+            "distance": 5.340630208706265,
+            "static_map_url": "https://staticmap.weedmaps.com/static_map/13/32.297284/-110.972795/402/147/map.png",
+            "feature_order": 1,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "region_id": 269,
+            "online_ordering": {
+              "is_orders_enabled": false,
+              "is_logistics_enabled": false,
+              "after_hours_enabled": true,
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false,
+              "identification_required": true,
+              "purchase_min": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              },
+              "eta_min": 0,
+              "eta_max": 0,
+              "display_eta": false,
+              "wm_service_fee": {
+                "cents": 0,
+                "currency": "USD",
+                "amount": 0
+              }
+            },
+            "retailer_services": ["storefront", "pickup"]
+          }
+        ]
+      },
+      "delivery": { "listings": [] },
+      "doctor": { "listings": [] }
+    }
+  }
+}
